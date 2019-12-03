@@ -1,6 +1,6 @@
 (function () {
   // 没有更新
-  return;
+  // return;
   window.wePushUpdateAlert({
     url: 'https://xxx.com',
     desc: '修复xx功能',
